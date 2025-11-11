@@ -1,0 +1,189 @@
+sex,age_band,married,education_level,evote,party
+Male,34-48,Other,Higher,1,Green
+Female,63+,Other,Lower,0,Red
+Female,49-63,Other,Higher,0,Red
+Male,49-63,Other,Higher,1,Red
+Male,49-63,Other,Higher,1,Green
+Male,34-48,Never married,Lower,1,Green
+Female,49-63,Other,Higher,0,Red
+Male,63+,Other,Higher,0,Red
+Male,34-48,Other,Higher,0,Green
+Female,63+,Other,Higher,0,Red
+Male,18-33,Never married,Higher,1,Green
+Male,49-63,Other,Higher,1,Red
+Male,18-33,Other,Higher,0,Red
+Male,63+,Other,Lower,0,Red
+Female,18-33,Other,Lower,1,Green
+Female,18-33,Never married,Higher,1,Green
+Male,49-63,Other,Lower,0,Green
+Female,49-63,Other,Higher,0,Red
+Female,49-63,Other,Lower,0,Red
+Female,18-33,Never married,Higher,1,Red
+Male,49-63,Other,Higher,0,Red
+Male,18-33,Never married,Higher,0,Green
+Female,49-63,Never married,Lower,0,Green
+Male,49-63,Other,Higher,1,Red
+Female,18-33,Never married,Higher,0,Green
+Male,18-33,Never married,Lower,0,Green
+Female,18-33,Never married,Higher,1,Red
+Male,63+,Other,Lower,0,Red
+Male,34-48,Other,Higher,1,Green
+Female,34-48,Other,Higher,1,Red
+Male,49-63,Other,Lower,0,Green
+Female,63+,Other,Higher,0,Red
+Male,18-33,Never married,Lower,1,Green
+Female,49-63,Other,Higher,0,Red
+Female,18-33,Never married,Lower,1,Green
+Female,63+,Other,Higher,1,Red
+Female,34-48,Other,Lower,0,Green
+Male,34-48,Never married,Higher,1,Red
+Male,49-63,Other,Higher,0,Red
+Male,49-63,Other,Lower,0,Green
+Female,34-48,Other,Higher,0,Red
+Female,34-48,Other,Higher,1,Green
+Male,34-48,Never married,Lower,1,Green
+Female,18-33,Never married,Higher,0,Green
+Male,18-33,Never married,Lower,0,Green
+Female,49-63,Other,Lower,0,Green
+Female,63+,Other,Higher,0,Red
+Female,34-48,Never married,Lower,1,Green
+Male,63+,Other,Lower,0,Green
+Female,18-33,Never married,Lower,1,Green
+Female,18-33,Other,Lower,0,Red
+Male,34-48,Never married,Lower,1,Green
+Female,63+,Other,Higher,1,Red
+Female,49-63,Other,Lower,0,Green
+Male,49-63,Never married,Higher,0,Red
+Male,18-33,Never married,Lower,1,Green
+Female,34-48,Never married,Higher,0,Red
+Male,18-33,Never married,Lower,0,Green
+Female,63+,Other,Lower,0,Green
+Female,63+,Other,Lower,0,Green
+Male,18-33,Other,Lower,1,Green
+Male,49-63,Never married,Higher,0,Red
+Male,18-33,Never married,Lower,0,Green
+Female,18-33,Never married,Lower,1,Green
+Female,34-48,Other,Higher,0,Green
+Male,63+,Other,Lower,1,Red
+Male,63+,Other,Lower,0,Green
+Male,18-33,Never married,Lower,1,Green
+Male,34-48,Other,Higher,1,Green
+Female,49-63,Other,Lower,0,Red
+Female,49-63,Never married,Lower,0,Green
+Male,63+,Other,Lower,0,Red
+Female,63+,Other,Lower,0,Green
+Female,63+,Other,Higher,0,Red
+Female,49-63,Other,Lower,1,Red
+Female,34-48,Never married,Higher,0,Green
+Female,18-33,Never married,Lower,0,Green
+Male,18-33,Other,Higher,1,Green
+Female,63+,Other,Higher,0,Red
+Male,18-33,Never married,Higher,0,Green
+Female,18-33,Never married,Lower,0,Green
+Male,18-33,Never married,Lower,0,Green
+Female,63+,Other,Lower,0,Red
+Male,34-48,Other,Higher,1,Green
+Male,49-63,Never married,Lower,0,Green
+Female,49-63,Other,Lower,1,Green
+Female,34-48,Other,Lower,0,Green
+Female,63+,Other,Lower,1,Green
+Female,49-63,Other,Higher,0,Red
+Female,63+,Other,Lower,0,Green
+Female,34-48,Other,Higher,1,Green
+Female,63+,Other,Lower,0,Red
+Female,18-33,Never married,Lower,1,Green
+Male,18-33,Never married,Lower,1,Green
+Male,63+,Other,Lower,0,Red
+Male,63+,Other,Higher,1,Red
+Female,63+,Other,Lower,0,Red
+Female,49-63,Other,Higher,1,Red
+Male,34-48,Other,Lower,0,Red
+Female,18-33,Other,Lower,0,Green
+Female,63+,Other,Higher,1,Red
+Female,34-48,Never married,Higher,0,Red
+Male,34-48,Other,Lower,0,Green
+Female,18-33,Never married,Lower,1,Green
+Male,49-63,Other,Higher,1,Red
+Male,63+,Other,Lower,1,Green
+Male,63+,Other,Lower,0,Green
+Male,49-63,Other,Lower,0,Green
+Female,34-48,Other,Lower,0,Red
+Female,63+,Other,Lower,0,Red
+Female,49-63,Other,Lower,0,Green
+Female,63+,Other,Lower,1,Green
+Male,49-63,Other,Higher,0,Red
+Female,18-33,Never married,Lower,0,Green
+Female,49-63,Other,Lower,1,Green
+Male,49-63,Other,Lower,1,Green
+Male,34-48,Other,Higher,0,Green
+Male,34-48,Never married,Higher,1,Green
+Female,34-48,Never married,Lower,0,Green
+Male,49-63,Other,Lower,0,Red
+Male,34-48,Other,Lower,1,Green
+Male,49-63,Other,Higher,0,Green
+Female,49-63,Other,Higher,0,Red
+Male,49-63,Other,Higher,0,Green
+Female,34-48,Other,Lower,1,Green
+Female,34-48,Other,Lower,1,Green
+Female,49-63,Other,Lower,0,Red
+Female,34-48,Other,Higher,0,Red
+Female,49-63,Other,Lower,0,Green
+Male,18-33,Never married,Lower,1,Green
+Male,49-63,Other,Higher,0,Green
+Female,49-63,Other,Lower,0,Green
+Male,34-48,Never married,Higher,1,Red
+Male,18-33,Never married,Lower,0,Green
+Male,34-48,Other,Lower,1,Green
+Male,49-63,Never married,Higher,0,Red
+Male,34-48,Other,Higher,1,Green
+Male,49-63,Other,Lower,1,Green
+Male,63+,Other,Lower,0,Green
+Male,49-63,Other,Lower,0,Green
+Male,49-63,Never married,Higher,1,Red
+Female,49-63,Other,Lower,0,Red
+Female,49-63,Other,Lower,1,Green
+Female,18-33,Never married,Lower,1,Green
+Male,18-33,Other,Lower,0,Red
+Male,18-33,Never married,Lower,1,Green
+Male,63+,Other,Lower,0,Red
+Female,63+,Other,Lower,0,Green
+Female,49-63,Other,Higher,1,Red
+Female,49-63,Other,Lower,0,Green
+Male,18-33,Never married,Lower,1,Green
+Male,34-48,Other,Higher,0,Green
+Female,49-63,Other,Lower,1,Green
+Male,49-63,Never married,Lower,0,Red
+Male,63+,Other,Lower,0,Red
+Male,63+,Other,Higher,0,Green
+Female,18-33,Never married,Lower,1,Red
+Female,49-63,Other,Higher,0,Red
+Female,18-33,Never married,Lower,0,Red
+Female,63+,Other,Lower,0,Red
+Male,34-48,Never married,Higher,1,Red
+Male,49-63,Never married,Higher,0,Red
+Female,18-33,Never married,Lower,1,Green
+Male,34-48,Other,Higher,0,Green
+Male,18-33,Never married,Lower,0,Green
+Male,34-48,Other,Higher,1,Green
+Male,63+,Other,Lower,0,Green
+Male,49-63,Other,Lower,1,Green
+Male,63+,Other,Lower,0,Red
+Male,49-63,Other,Lower,0,Green
+Male,18-33,Never married,Higher,0,Green
+Female,49-63,Other,Lower,0,Green
+Female,63+,Never married,Lower,0,Red
+Male,49-63,Other,Lower,0,Green
+Male,34-48,Other,Lower,1,Green
+Male,49-63,Other,Lower,0,Green
+Female,18-33,Never married,Lower,0,Green
+Male,18-33,Other,Higher,1,Green
+Female,49-63,Never married,Lower,0,Green
+Male,49-63,Other,Lower,1,Green
+Male,34-48,Other,Lower,1,Green
+Female,63+,Never married,Lower,0,Red
+Female,18-33,Never married,Lower,1,Green
+Male,34-48,Other,Higher,0,Red
+Female,63+,Other,Higher,0,Red
+Male,63+,Other,Lower,1,Green
+Male,49-63,Never married,Lower,0,Green
+Female,63+,Other,Lower,1,Green
